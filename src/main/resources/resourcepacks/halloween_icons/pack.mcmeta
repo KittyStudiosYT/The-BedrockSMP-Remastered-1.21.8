@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 56
+    },
+    "description": {
+      "type": "translatable",
+      "translate": "pack.kitty.halloween_icons.desc",
+      "color": "gray"
+    }
+  }
+}

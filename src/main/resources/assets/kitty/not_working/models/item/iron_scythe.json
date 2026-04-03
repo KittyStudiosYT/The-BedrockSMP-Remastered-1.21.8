@@ -1,0 +1,7 @@
+{
+  "parent": "kitty:custom/scythe",
+  "textures": {
+    "layer0": "kitty:item/iron_scythe",
+    "particle": "kitty:particle/iron_scythe"
+  }
+}

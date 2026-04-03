@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "kitty:steel_ingot",
+    "X": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kitty:steel_upgrade_smithing_template"
+  }
+}

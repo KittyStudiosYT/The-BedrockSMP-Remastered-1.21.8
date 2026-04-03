@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_netherite_upgrade_smithing_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:netherite_upgrade_smithing_template"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_steel_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kitty:steel_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kitty:steel_upgrade_smithing_template"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_steel_ingot",
+      "has_netherite_upgrade_smithing_template"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kitty:steel_upgrade_smithing_template"
+    ]
+  }
+}
