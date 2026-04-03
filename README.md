@@ -7,6 +7,7 @@ just make sure to credit me and feel free to change the authors or just add your
 I used "IntelliJ IDEA Community Edition 2025.1.1.1" to make this mod.
 
 Old source code for versions 1.21.7 and below: https://github.com/ItsTheEverydaySonic/The-BedrockSMP
+
 Source code for versions 1.21.10 and above: https://github.com/ItsTheEverydaySonic/The-BedrockSMP-Remastered
 
 Credits:
