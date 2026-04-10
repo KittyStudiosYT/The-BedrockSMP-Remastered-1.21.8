@@ -1,28 +1,42 @@
 
-      Note 2024 @ItsKittyYouTube
+      Note © 2023–2024 ItsKittyYouTube
 
-This is the source code for The-BedrockSMP.
-If you guys want to add to my mod feel free to download the code,
-just make sure to credit me and feel free to change the authors or just add yourself to it.
-I used "IntelliJ IDEA Community Edition 2025.1.1.1" to make this mod.
+# The-BedrockSMP
 
-Old source code for versions 1.21.7 and below: https://github.com/ItsTheEverydaySonic/The-BedrockSMP
+This is the source code for The-BedrockSMP, developed under KittyStudios.
 
-Source code for versions 1.21.10 and above: https://github.com/ItsTheEverydaySonic/The-BedrockSMP-Remastered
+## Source Code
 
-Credits:
+Original source code (1.21.8 and below):
+https://github.com/ItsTheEverydaySonic/The-BedrockSMP
 
-• Mod Creators: ItsKittyYouTube
+Remastered Source code (1.21.10+):
+https://github.com/ItsTheEverydaySonic/The-BedrockSMP-Remastered
 
-• Mod Helpers: ItsMoonYouTube, ItsTheEverydayPapaYT, Sora66
+---
 
-• Mod Textures by: ItsKittyYouTube, Sora66
+## Credits
 
+- Mod Creator: ItsKittyYouTube
+- Mod Helpers: ItsMoonYouTube, ItsTheEverydayPapaYT, Sora66
 
-[Copyright]
+- Textures: ItsKittyYouTube, Sora66
 
-      Note 2025 @ItsKittyYouTube
+---
 
-Any Diamarite equipment copyright belongs to Sora66 as he had the idea to create it. 
-If you use the same spelling or textures for Diamarite all copyright must go to Sora66, 
-if you do not give Sora66 copyright for Diamarite, you're mod can be taken down for legal copyright reasons!
+## Diamarite Copyright Notice
+
+      Note © 2025 ItsKittyYouTube
+
+The Diamarite concept and related assets were created by Sora66 and refined by ItsKittyYouTube.
+Diamarite remains credited to Sora66 as the original concept creator. Use of the Diamarite name or
+related textures should properly credit Sora66. Unauthorized or uncredited use of Diamarite may result
+in removal requests under applicable platform policies.
+
+---
+
+## Contributions
+
+Contributions and modifications to this project must follow the KittyStudios Protective License included in this repository.
+
+Please refer to the LICENSE (LICENSE-KittyStudios) file for full terms regarding usage, modification, and redistribution.
